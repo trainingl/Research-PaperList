@@ -7,6 +7,4 @@
 4. 2022_CIKM_Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting. [Link](https://arxiv.org/abs/2208.05233)  [Code](https://github.com/zezhishao/STID)
 5. 2021_TKDE_Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting. [Link](https://ieeexplore.ieee.org/document/9346058)  [Code](https://github.com/guoshnBJTU/ASTGNN)
 
-*Thanks to the author for providing high-quality open-source code, which provides an excellent learning case for researchers.*
-
-I am also reading and reproducing the above papers and source code files, trying to update the benchmark for traffic prediction(STG4Traffic). Feel free to discuss this with me if you have any questions!
+*Thanks to the author for providing high-quality open-source code, which provides an excellent learning case for researchers. I am also reading and reproducing the above papers and source code files, trying to update the benchmark for traffic prediction(STG4Traffic). Feel free to discuss this with me if you have any questions!*

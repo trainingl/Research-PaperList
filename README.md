@@ -6,6 +6,7 @@
 3. 2023_CIKM_STAEformer: Spatio-Temporal Adaptive Embedding Makes Vanilla Transformer SOTA for Traffic Forecasting. [Link](https://arxiv.org/abs/2308.10425)  [Code](https://github.com/XDZhelheim/STAEformer)
 4. 2022_CIKM_Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting. [Link](https://arxiv.org/abs/2208.05233)  [Code](https://github.com/zezhishao/STID)
 5. 2021_TKDE_Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting. [Link](https://ieeexplore.ieee.org/document/9346058)  [Code](https://github.com/guoshnBJTU/ASTGNN)
+6. 2023_PR_A Decomposition Dynamic graph convolutional recurrent network for traffic forecasting. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320323003710) [Code](https://github.com/wengwenchao123/DDGCRN/tree/main)
 
 **The Conference and Journal Abbreviations of the above papers refer to [Directory of International Academic Conferences and Journals Recommended by China Computer Federation](https://www.ccf.org.cn/Academic_Evaluation/By_category/).**
 

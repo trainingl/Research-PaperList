@@ -7,6 +7,7 @@
 4. 2022_CIKM_Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting. [Link](https://arxiv.org/abs/2208.05233)  [Code](https://github.com/zezhishao/STID)
 5. 2021_TKDE_Learning Dynamics and Heterogeneity of Spatial-Temporal Graph Data for Traffic Forecasting. [Link](https://ieeexplore.ieee.org/document/9346058)  [Code](https://github.com/guoshnBJTU/ASTGNN)
 6. 2023_PR_A Decomposition Dynamic graph convolutional recurrent network for traffic forecasting. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320323003710) [Code](https://github.com/wengwenchao123/DDGCRN/tree/main)
+7. 2020_AAAI_Multi-Range Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting [Link](https://ojs.aaai.org/index.php/AAAI/article/view/5758/5614) [Code](https://github.com/wumingyao/MAR-BGCN_GPU_pytorch) [Issues](https://github.com/j1o2h3n/MRA-BGCN/issues/2)
 
 **The Conference and Journal Abbreviations of the above papers refer to [Directory of International Academic Conferences and Journals Recommended by China Computer Federation](https://www.ccf.org.cn/Academic_Evaluation/By_category/).**
 
